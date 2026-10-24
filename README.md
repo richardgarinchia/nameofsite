@@ -1,2 +1,2 @@
 # nameofsite
-This is an example repository.
+This is an examplea
