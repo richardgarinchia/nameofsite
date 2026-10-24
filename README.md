@@ -1,2 +1,2 @@
 # nameofsite
-This is an examplea
+This is an examplea of hello.
